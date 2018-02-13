@@ -1,0 +1,4 @@
+https://docs.python.org/3/
+https://pandas.pydata.org/pandas-docs/stable/
+https://docs.scipy.org/doc/
+https://matplotlib.org/api/pyplot_api.html
